@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">guia2_ejemplo2</string>
+    <string name="lblEstado">Estado</string>
+    <string name="btnDescargar">Descargar</string>
+    <string name="rbtnCambiar">Cambiar Nombre</string>
+    <string name="rbtnNoCambiar">No Cambiar Nombre</string>
+    <string name="txtNombre">Nombre del archivo</string>
+</resources>
